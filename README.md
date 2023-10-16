@@ -1,3 +1,7 @@
+The NFT cannot be listed as of now due to metastorage change . 
+You can either use pinata or moralis for metastorage instead of ipfs.
+The dependencies are already installed feel free to change the code.
+
 # NFT Marketplace
 
 ## Technology Stack & Tools
